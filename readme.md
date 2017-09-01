@@ -1,0 +1,1 @@
+Coder Swag is a shopping application for viewing tech swag. All data is hosted locally and uses the Singleton design pattern. The application was built using Swift 4 and  Xcode Version 9.0 beta 6 (9M214v) 
