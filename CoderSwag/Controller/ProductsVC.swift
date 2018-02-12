@@ -14,15 +14,11 @@ class ProductsVC: UIViewController {
     
     private(set) public var products = [Product]()
     
-    
     override func viewDidLoad() {
         super.viewDidLoad()
         
         productsCollection.delegate = self
         productsCollection.dataSource = self
-        
-        
-        
     }
     
     func initProducts(category: Category) {
